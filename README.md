@@ -19,4 +19,4 @@ https://wgsxm.github.io/projects/partcrafter/
 
 ### 🖼 Output
 
-
+<img width="960" height="525" alt="Image" src="https://github.com/user-attachments/assets/df96de38-a104-46da-8cbc-275376ba2813" />
